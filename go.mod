@@ -1,4 +1,4 @@
-module github.com/google/gnostic
+module github.com/karim42benhammou/gnostic
 
 go 1.12
 
